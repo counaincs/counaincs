@@ -6,6 +6,7 @@
 📧 [Counaincs@gmail.com](mailto:Counaincs@gmail.com)  
 📍 Bengaluru  
 [LinkedIn](https://www.linkedin.com/in/counain)
+[credly](https://credly.com/users/counain/)
 
 ---
 
