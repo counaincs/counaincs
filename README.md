@@ -16,6 +16,7 @@ Motivated and detail-oriented SOC Analyst with a strong foundation in Computer S
 
 ---
 ## Projects on Cyber Security
+---
 ## Professional Experience
 
 ### Data Science Internship (College Internship)
