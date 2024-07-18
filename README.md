@@ -15,7 +15,7 @@
 Motivated and detail-oriented SOC Analyst with a strong foundation in Computer Science, Networking and Cyber Security, advanced training in Cisco CyberOps, CCNA, and AWS Solution Architect. Seeking to leverage my technical expertise in security monitoring, threat analysis, and incident response to enhance organisational security and mitigate cyber threats.
 
 ---
-
+## Projects on Cyber Security
 ## Professional Experience
 
 ### Data Science Internship (College Internship)
