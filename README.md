@@ -26,7 +26,7 @@ Motivated and detail-oriented SOC Analyst with a strong foundation in Computer S
 - Analyzed and identified areas of the business needing more robust security training, and implemented training courses and procedures for those teams.
 
 
-## PwC Switzerland Cybersecurity Job Simulation - July 2024
+## PwC Switzerland Cybersecurity Job Simulation - July 2024 <a href="https://github.com/counaincs/mywork1/blob/main/README.md#pwc-switzerland-cybersecurity-job-simulation---july-2024">click here</a>
 
 - Completed a job simulation involving cybersecurity for PwC Digital Intelligence, gaining experience in understanding and explaining the concept of integrated defense.
 - Developed expertise in integrated defense strategies and their application in real-world scenarios.
