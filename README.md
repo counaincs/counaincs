@@ -5,8 +5,10 @@
 
 📧 [Counaincs@gmail.com](mailto:Counaincs@gmail.com)  
 📍 Bengaluru  
-[LinkedIn](https://www.linkedin.com/in/counain)
-[credly](https://credly.com/users/counain/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/counain/) 
+
+
+
 
 ---
 
@@ -104,9 +106,19 @@ _May 2018_
 ## Training and Certification
 
 - **CCNA Cyber Ops:** May 2024
+- ![cyberops-associate](https://github.com/user-attachments/assets/d0479a22-35be-40b3-abd5-0884e9cc7f49)
 - **CCNA Routing & Switching:** Feb 2024
+- ![ccna-introduction-to-networks](https://github.com/user-attachments/assets/c745d279-3906-477c-8b9a-c593f1de75c9)
+  ![ccna-switching-routing-and-wireless-essentials 1](https://github.com/user-attachments/assets/2bcb3dcf-a886-4ade-8a52-dcb605b65ef6)
+  ![ccna-enterprise-networking-security-and-automation](https://github.com/user-attachments/assets/f0a9d86d-1dff-4f0b-a628-0179e6ed6a11)
+
 - **AWS Cloud Practitioner & AWS Solution Architect from (KGTTI):** Jan 2023 - Mar 2023
-[![Your Badge](https://www.credly.com/badges/1451dcd9-baba-4752-9048-3cdb30e6f6c8)](https://www.credly.com/badges/1451dcd9-baba-4752-9048-3cdb30e6f6c8)
+- ![aws-academy-graduate-aws-academy-cloud-foundations](https://github.com/user-attachments/assets/31eb40d4-5536-4ef6-85cd-b83c9a613db2)
+ ![aws-academy-graduate-aws-academy-cloud-architecting](https://github.com/user-attachments/assets/7a23c6d2-d813-4e46-a6e9-839265656087)
+
+
+
+
 
 ---
 
@@ -139,6 +151,3 @@ _May 2018_
 - **Nationality:** Indian
 - **Relocation:** Open to relocation
 - **Known Languages:** English, Hindi
-- **Address:** H.No 5-406/51 Beside tiny pearls school, Khaja Colony, Gulbarga 585104, Karnataka, India
-
-![Address Image](path/to/your/address_image.jpg)
