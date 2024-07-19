@@ -16,6 +16,13 @@ Motivated and detail-oriented SOC Analyst with a strong foundation in Computer S
 
 ---
 ## Projects on Cyber Security
+## PwC Switzerland Cybersecurity Job Simulation - July 2024
+
+- Completed a job simulation involving cybersecurity for PwC Digital Intelligence, gaining experience in understanding and explaining the concept of integrated defense.
+- Developed expertise in integrated defense strategies and their application in real-world scenarios.
+- Conducted risk assessments and formulated security recommendations for a client.
+- Demonstrated proficiency in cybersecurity terminology, network segmentation, and firewall configuration.
+
 ---
 ## Professional Experience
 
@@ -84,9 +91,7 @@ _June 2018 - May 2020_
 ### X | Karnataka Secondary Education Examination Board
 **Tiny Pearls School, Gulbarga, Karnataka, India**  
 _May 2018_
-
 ---
-
 ## Training and Certification
 
 - **CCNA Cyber Ops:** May 2024
