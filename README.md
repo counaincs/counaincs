@@ -16,7 +16,8 @@ Motivated and detail-oriented SOC Analyst with a strong foundation in Computer S
 
 ---
 ## Projects on Cyber Security
-<a href="https://github.com/counaincs/mywork/blob/main/README.md#mastercard-cybersecurity-virtual-experience-program---july-2024"> ## Mastercard Cybersecurity Virtual Experience Program - July 2024</a>
+## Mastercard Cybersecurity Virtual Experience Program - July 2024 <a href="https://github.com/counaincs/mywork/blob/main/README.md#mastercard-cybersecurity-virtual-experience-program---july-2024">click here</a>
+
 
 - Completed a job simulation as an analyst on Mastercard’s Security Awareness Team.
 - Helped identify and report security threats, including phishing.
