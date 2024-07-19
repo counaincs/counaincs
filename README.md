@@ -105,7 +105,7 @@ _May 2018_
 
 - **CCNA Cyber Ops:** May 2024
 - **CCNA Routing & Switching:** Feb 2024
-- **AWS Cloud Practitioner & AWS Solution Architect from (KGTTI):** Jan 2023 - Mar 2023
+- **AWS Cloud Practitioner & AWS Solution Architect from (KGTTI):** Jan 2023 - Mar 2023 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1451dcd9-baba-4752-9048-3cdb30e6f6c8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
