@@ -65,8 +65,15 @@ Risk Management | Problem-Solving | Time Management | Leadership | Critical Thin
 
 ## Training and Certification
 - **CCNA Cyber Ops** (May 2024)
+- ![cyberops-associate](https://github.com/user-attachments/assets/85787ed9-80bd-418e-8adb-b7599c35528b)
+
 - **CCNA Routing & Switching** (Feb 2024)
+- ![ccna-introduction-to-networks](https://github.com/user-attachments/assets/0bc82e7f-d871-4cbf-91cd-704623311008) ![ccna-switching-routing-and-wireless-essentials 1](https://github.com/user-attachments/assets/bf4d0a71-65c3-4fed-b8f2-925b1483c71b) ![ccna-enterprise-networking-security-and-automation](https://github.com/user-attachments/assets/1ec94de5-3fbe-4f03-bce0-605470185622)
+
+
 - **AWS Cloud Practitioner & AWS Solution Architect** (Jan 2023)
+- ![aws-academy-graduate-aws-academy-cloud-foundations](https://github.com/user-attachments/assets/d734901c-4a09-4fad-8812-074057325a40)
+![aws-academy-graduate-aws-academy-cloud-architecting](https://github.com/user-attachments/assets/9d188dfa-c87a-4a6f-a07d-9ff505625ce2)
 
 ## Professional Experience
 ### Data Science Internship
@@ -80,8 +87,22 @@ Risk Management | Problem-Solving | Time Management | Leadership | Critical Thin
 ## Languages
 English | Hindi
 
-## Links
-- [Natural Gas Price Prediction](https://github.com/counaincs/natural_gas_price_predictioon)
-- [Credly Badge 1](https://www.credly.com/badges/18190889-e4d8-40f8-a85d-f40e23ca5e76/public_url)
-- [Credly Badge 2](https://www.credly.com/badges/453d7de6-3cab-40cb-898a-d43e0b311472/public_url)
-- [Credly Badge 3](https://www.credly.com/badges/1451dcd9-baba-4752-9048-3cdb30e6f6c8/public_url)
+## extracurricular
+## Mastercard Cybersecurity Virtual Experience Program - July 2024 <a href="https://github.com/counaincs/mywork/blob/main/README.md#mastercard-cybersecurity-virtual-experience-program---july-2024">click here</a>
+
+
+- Completed a job simulation as an analyst on Mastercard’s Security Awareness Team.
+- Helped identify and report security threats, including phishing.
+- Analyzed and identified areas of the business needing more robust security training, and implemented training courses and procedures for those teams.
+
+
+## PwC Switzerland Cybersecurity Job Simulation - July 2024 <a href="https://github.com/counaincs/mywork1/blob/main/README.md#pwc-switzerland-cybersecurity-job-simulation---july-2024">click here</a>
+
+- Completed a job simulation involving cybersecurity for PwC Digital Intelligence, gaining experience in understanding and explaining the concept of integrated defense.
+- Developed expertise in integrated defense strategies and their application in real-world scenarios.
+- Conducted risk assessments and formulated security recommendations for a client.
+- Demonstrated proficiency in cybersecurity terminology, network segmentation, and firewall configuration.
+
+---
+
+
