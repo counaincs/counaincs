@@ -34,7 +34,7 @@ Risk Management | Problem-Solving | Time Management | Leadership | Critical Thin
 
 ## Projects
 
-### Cyber Security Operation Center (CSOC) Environment Project [link](https://github.com/counaincs/soc-environment)
+### [Cyber Security Operation Center (CSOC) Environment Project](https://github.com/counaincs/soc-environment)
 
 **Technologies Used**: VirtualBox, pfSense, Splunk, Ubuntu, Windows
 
@@ -53,7 +53,7 @@ Risk Management | Problem-Solving | Time Management | Leadership | Critical Thin
 --
 --
 
-### Price Prediction of Natural Gas Using Deep Neural Network [link](https://github.com/counaincs/natural_gas_price_predictioon)
+### [Price Prediction of Natural Gas Using Deep Neural Network](https://github.com/counaincs/natural_gas_price_predictioon)
 
 - **Model Development**: Created and trained a DNN model to capture complex market patterns and predict natural gas prices.
 - **Data Processing**: Preprocessed and analyzed historical market data to feed into the model.
