@@ -1,5 +1,5 @@
 # Mohammed Counain Shafi
-Email: Counaincs@gmail.com | Phone: +91 7411544598 | GitHub: [counain](https://github.com/counaincs) | LinkedIn: [counain](https://www.linkedin.com/in/counain) | Credly: [counaincs](https://www.credly.com/users/counain)
+Email: Counaincs@gmail.com | GitHub: [counain](https://github.com/counaincs) | LinkedIn: [counain](https://www.linkedin.com/in/counain) | Credly: [counaincs](https://www.credly.com/users/counain)
 
 ## Career Objectives
 Motivated and detail-oriented SOC Analyst with a strong foundation in Computer Science, Networking, and Cyber Security, advanced training in Cisco CyberOps, CCNA, and AWS Solution Architect. Seeking to leverage my technical expertise in security monitoring, threat analysis, and incident response to enhance organizational security and mitigate cyber threats.
