@@ -87,7 +87,7 @@ Risk Management | Problem-Solving | Time Management | Leadership | Critical Thin
 ## Languages
 English | Hindi
 
-## extracurricular
+## Extracurricular
 ## Mastercard Cybersecurity Virtual Experience Program - July 2024 <a href="https://github.com/counaincs/mywork/blob/main/README.md#mastercard-cybersecurity-virtual-experience-program---july-2024">click here</a>
 
 
